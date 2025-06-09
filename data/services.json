@@ -1,0 +1,32 @@
+[
+ {"id":"1",
+"title":"University Selection & Applications",
+"desc":"Strategic guidance for selecting institutions that match your academic profile and career goals.",
+"icon":"LuBuilding"
+},
+ {"id":"2",
+"title":"Visa Guidance & Documentation",
+"desc":"Expert assistance with visa documentation and interview preparation for success.",
+"icon":"LuBuilding"
+},
+ {"id":"3",
+"title":"Scholarship Support",
+"desc":"Identify and apply for scholarships and financial aid opportunities worldwide.",
+"icon":"LuBuilding"
+},
+ {"id":"4",
+"title":"Post-Admission Counseling",
+"desc":"Comprehensive support for travel arrangements, accommodation, and cultural adjustment.",
+"icon":"LuBuilding"
+},
+ {"id":"5",
+"title":"Statement of Purpose Crafting",
+"desc":"Professional guidance to create compelling personal statements that stand out.",
+"icon":"LuBuilding"
+},
+ {"id":"6",
+"title":"Career Counseling",
+"desc":"Long-term planning for academic and professional success abroad and after returning.",
+"icon":"LuBuilding"
+}
+]
